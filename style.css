@@ -1,0 +1,18 @@
+@font-face {
+    font-family:noirRegular;
+    src: url(fonts/NoirPro-Regular.ttf);
+  
+}
+@font-face {
+    font-family:noirprobold ;
+    src: url(fonts/NoirPro-Bold.ttf);
+}
+@font-face {
+    font-family: googlesansregular;
+    src: url(fonts/GoogleSans-Regular.ttf);
+    font-weight: lighter;
+}
+@font-face {
+    font-family: googlesansbold;
+    src: url(fonts/GoogleSans-Bold.ttf);
+}
